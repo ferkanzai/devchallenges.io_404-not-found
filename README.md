@@ -70,4 +70,4 @@ This application/site was created as a submission to a [DevChallenges](https://d
 ## Contact
 
 - Website [fercarmona.com](https://fercarmona.com)
-- GitHub [@ferkanzai](https://{github.com/ferkanzai})
+- GitHub [@ferkanzai](https://github.com/ferkanzai)
