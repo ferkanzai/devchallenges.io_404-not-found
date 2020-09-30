@@ -69,6 +69,5 @@ This application/site was created as a submission to a [DevChallenges](https://d
 
 ## Contact
 
-- Website [fernandocarmona.com](https://{your-web-site-link})
-- GitHub [@ferkanzai](https://{github.com/your-usermame})
-- Twitter [@ferkanzai](https://{twitter.com/your-username})
+- Website [fernandocarmona.com](https://fernandocarmona.com)
+- GitHub [@ferkanzai](https://{github.com/ferkanzai})
