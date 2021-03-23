@@ -1,0 +1,122 @@
+main {
+    position: relative;
+    width: 1440px;
+    height: 1080px;
+
+    background: #FFFFFF;
+    box-shadow: 0px 2px 24px rgba(0, 0, 0, 0.1);
+    border-radius: 12px;
+}
+
+.error-404 {
+    position: absolute;
+    width: 133px;
+    height: 25px;
+    left: 77px;
+    top: 40px;
+    
+    font-family: Inconsolata;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 24px;
+    line-height: 25px;
+    letter-spacing: -0.08em;
+    text-transform: uppercase;
+    
+    color: #333333;
+}
+
+#scarecrow {
+    position: absolute;
+    left: 5.35%;
+    right: 57.21%;
+    top: 24.54%;
+    bottom: 34.03%;
+    left: 77px;
+    top: 265px;
+    border-radius: 0px;
+
+}
+
+#bad_news {
+    position: absolute;
+    width: 586px;
+    height: 190px;
+    left: 735px;
+    top: 265px;
+    
+    font-family: Space Mono;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 64px;
+    line-height: 95px;
+    letter-spacing: -0.035em;
+    
+    /* Gray 1 */
+    
+    color: #333333;
+}
+
+#text {
+    position: absolute;
+    width: 381px;
+    height: 108px;
+    left: 736px;
+    top: 491px;
+
+    font-family: 'Space Mono';
+    font-style: normal;
+    font-weight: normal;
+    font-size: 24px;
+    line-height: 36px;
+    letter-spacing: -0.035em;
+
+    /* Gray 2 */
+
+    color: #4F4F4F;
+}
+
+#back_to_homepage {
+    position: absolute;
+    width: 216px;
+    height: 68px;
+    left: 740px;
+    top: 663px;
+
+    background: #333333;
+}
+
+p {
+    position: absolute;
+    width: 130px;
+    height: 21px;
+    left: 783px;
+    top: 671px;
+    
+    font-family: 'Space Mono';
+    font-style: normal;
+    font-weight: bold;
+    font-size: 14px;
+    line-height: 21px;
+    
+    letter-spacing: -0.035em;
+    text-transform: uppercase;
+    
+    color: rgba(255,255,255,1);
+}
+
+#name {
+    position: absolute;
+    width: 500px;
+    height: 17px;
+    left: 607px;
+    top: 1024px;
+
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 14px;
+    line-height: 17px;
+
+    color: #333333;
+}
